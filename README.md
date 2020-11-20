@@ -10,7 +10,7 @@ short-term memory (LSTM), Attention-Based BiLSTM, and CNN. To compare the perfor
 of these methods, we will use the Yelp dataset provided by Kaggle [1] to perform sentiment
 analysis on the user reviews.
 
-##　Project Member
+## Project Members
 Dean Huang:@DeanHuang-Git
 Zihao Lin: @ZihaoLin0123
 Yuwei Zhang: @wkhalil
