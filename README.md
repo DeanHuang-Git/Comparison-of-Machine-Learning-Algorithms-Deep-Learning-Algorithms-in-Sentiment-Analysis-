@@ -11,9 +11,9 @@ of these methods, we will use the Yelp dataset provided by Kaggle [1] to perform
 analysis on the user reviews.
 
 ## Project Members
-Dean Huang:@DeanHuang-Git
-Zihao Lin: @ZihaoLin0123
-Yuwei Zhang: @wkhalil
-Jeremy Zeng: @Jeremy-XiankangZeng
+Dean Huang:[@DeanHuang-Git](https://github.com/DeanHuang-Git)   <br />
+Zihao Lin: [@ZihaoLin0123](https://github.com/ZihaoLin0123)   <br />
+Yuwei Zhang: [@wkhalil](https://github.com/wkhalil)   <br />
+Jeremy Zeng: [@Jeremy-XiankangZeng](https://github.com/Jeremy-XiankangZeng)   <br />
 
 Fore more details about the project, please refer to the [report](https://github.com/DeanHuang-Git/Comparison-of-Machine-Learning-Algorithms-Deep-Learning-Algorithms-in-Sentiment-Analysis-/blob/master/report/Final%20Report.pdf).
