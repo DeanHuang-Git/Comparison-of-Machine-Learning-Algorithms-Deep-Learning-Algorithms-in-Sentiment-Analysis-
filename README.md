@@ -6,7 +6,7 @@ of-the-art machine-learning methods as well as deep learning algorithms for the 
 classification of sentiment analysis. The sentiment analysis algorithms we are evaluating and
 comparing are logistic regression, k-nearest neighbors algorithm, random forest, fasText, Long
 short-term memory (LSTM), Attention-Based BiLSTM, and CNN. To compare the performance
-of these methods, we will use the Yelp dataset provided by Kaggle [1] to perform sentiment
+of these methods, we will use the Yelp dataset provided by [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) to perform sentiment
 analysis on the user reviews.
 
 ## Project Members
