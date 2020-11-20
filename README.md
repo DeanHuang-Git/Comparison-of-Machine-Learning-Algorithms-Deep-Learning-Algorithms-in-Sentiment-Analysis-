@@ -1,5 +1,4 @@
-# Comparison of Machine Learning Algorithm and Deep
-Learning Algorithm in Sentiment Analysis Task
+# Comparison of Machine Learning Algorithm and Deep Learning Algorithm in Sentiment Analysis Task
 
 ## Abstract
 The goal of our study is to provide a comprehensive analysis and evaluation of several state-
