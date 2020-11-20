@@ -10,10 +10,10 @@ short-term memory (LSTM), Attention-Based BiLSTM, and CNN. To compare the perfor
 of these methods, we will use the Yelp dataset provided by Kaggle [1] to perform sentiment
 analysis on the user reviews.
 
-##Project Member
+##　Project Member
 Dean Huang:@DeanHuang-Git
 Zihao Lin: @ZihaoLin0123
 Yuwei Zhang: @wkhalil
 Jeremy Zeng: @Jeremy-XiankangZeng
 
-Fore more details about the project, please refer to the [report](actual URL to navigate).
+Fore more details about the project, please refer to the [report](https://github.com/DeanHuang-Git/Comparison-of-Machine-Learning-Algorithms-Deep-Learning-Algorithms-in-Sentiment-Analysis-/blob/master/report/Final%20Report.pdf).
